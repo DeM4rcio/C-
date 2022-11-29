@@ -1,0 +1,15 @@
+C:\workspace\C#\Moeda e nota\Moeda e nota\bin\Debug\net6.0\Moeda e nota.exe
+C:\workspace\C#\Moeda e nota\Moeda e nota\bin\Debug\net6.0\Moeda e nota.deps.json
+C:\workspace\C#\Moeda e nota\Moeda e nota\bin\Debug\net6.0\Moeda e nota.runtimeconfig.json
+C:\workspace\C#\Moeda e nota\Moeda e nota\bin\Debug\net6.0\Moeda e nota.dll
+C:\workspace\C#\Moeda e nota\Moeda e nota\bin\Debug\net6.0\Moeda e nota.pdb
+C:\workspace\C#\Moeda e nota\Moeda e nota\obj\Debug\net6.0\Moeda e nota.csproj.AssemblyReference.cache
+C:\workspace\C#\Moeda e nota\Moeda e nota\obj\Debug\net6.0\Moeda e nota.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\C#\Moeda e nota\Moeda e nota\obj\Debug\net6.0\Moeda e nota.AssemblyInfoInputs.cache
+C:\workspace\C#\Moeda e nota\Moeda e nota\obj\Debug\net6.0\Moeda e nota.AssemblyInfo.cs
+C:\workspace\C#\Moeda e nota\Moeda e nota\obj\Debug\net6.0\Moeda e nota.csproj.CoreCompileInputs.cache
+C:\workspace\C#\Moeda e nota\Moeda e nota\obj\Debug\net6.0\Moeda e nota.dll
+C:\workspace\C#\Moeda e nota\Moeda e nota\obj\Debug\net6.0\refint\Moeda e nota.dll
+C:\workspace\C#\Moeda e nota\Moeda e nota\obj\Debug\net6.0\Moeda e nota.pdb
+C:\workspace\C#\Moeda e nota\Moeda e nota\obj\Debug\net6.0\Moeda e nota.genruntimeconfig.cache
+C:\workspace\C#\Moeda e nota\Moeda e nota\obj\Debug\net6.0\ref\Moeda e nota.dll

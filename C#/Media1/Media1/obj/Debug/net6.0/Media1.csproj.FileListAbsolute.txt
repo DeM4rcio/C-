@@ -1,0 +1,15 @@
+C:\workspace\C#\Media1\Media1\bin\Debug\net6.0\Media1.exe
+C:\workspace\C#\Media1\Media1\bin\Debug\net6.0\Media1.deps.json
+C:\workspace\C#\Media1\Media1\bin\Debug\net6.0\Media1.runtimeconfig.json
+C:\workspace\C#\Media1\Media1\bin\Debug\net6.0\Media1.dll
+C:\workspace\C#\Media1\Media1\bin\Debug\net6.0\Media1.pdb
+C:\workspace\C#\Media1\Media1\obj\Debug\net6.0\Media1.csproj.AssemblyReference.cache
+C:\workspace\C#\Media1\Media1\obj\Debug\net6.0\Media1.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\C#\Media1\Media1\obj\Debug\net6.0\Media1.AssemblyInfoInputs.cache
+C:\workspace\C#\Media1\Media1\obj\Debug\net6.0\Media1.AssemblyInfo.cs
+C:\workspace\C#\Media1\Media1\obj\Debug\net6.0\Media1.csproj.CoreCompileInputs.cache
+C:\workspace\C#\Media1\Media1\obj\Debug\net6.0\Media1.dll
+C:\workspace\C#\Media1\Media1\obj\Debug\net6.0\refint\Media1.dll
+C:\workspace\C#\Media1\Media1\obj\Debug\net6.0\Media1.pdb
+C:\workspace\C#\Media1\Media1\obj\Debug\net6.0\Media1.genruntimeconfig.cache
+C:\workspace\C#\Media1\Media1\obj\Debug\net6.0\ref\Media1.dll

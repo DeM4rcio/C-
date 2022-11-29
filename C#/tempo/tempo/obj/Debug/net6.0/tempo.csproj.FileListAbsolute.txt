@@ -1,0 +1,15 @@
+C:\workspace\C#\tempo\tempo\bin\Debug\net6.0\tempo.exe
+C:\workspace\C#\tempo\tempo\bin\Debug\net6.0\tempo.deps.json
+C:\workspace\C#\tempo\tempo\bin\Debug\net6.0\tempo.runtimeconfig.json
+C:\workspace\C#\tempo\tempo\bin\Debug\net6.0\tempo.dll
+C:\workspace\C#\tempo\tempo\bin\Debug\net6.0\tempo.pdb
+C:\workspace\C#\tempo\tempo\obj\Debug\net6.0\tempo.csproj.AssemblyReference.cache
+C:\workspace\C#\tempo\tempo\obj\Debug\net6.0\tempo.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\C#\tempo\tempo\obj\Debug\net6.0\tempo.AssemblyInfoInputs.cache
+C:\workspace\C#\tempo\tempo\obj\Debug\net6.0\tempo.AssemblyInfo.cs
+C:\workspace\C#\tempo\tempo\obj\Debug\net6.0\tempo.csproj.CoreCompileInputs.cache
+C:\workspace\C#\tempo\tempo\obj\Debug\net6.0\tempo.dll
+C:\workspace\C#\tempo\tempo\obj\Debug\net6.0\refint\tempo.dll
+C:\workspace\C#\tempo\tempo\obj\Debug\net6.0\tempo.pdb
+C:\workspace\C#\tempo\tempo\obj\Debug\net6.0\tempo.genruntimeconfig.cache
+C:\workspace\C#\tempo\tempo\obj\Debug\net6.0\ref\tempo.dll

@@ -1,0 +1,15 @@
+C:\workspace\C#\Inputs\Inputs\bin\Debug\net6.0\Inputs.exe
+C:\workspace\C#\Inputs\Inputs\bin\Debug\net6.0\Inputs.deps.json
+C:\workspace\C#\Inputs\Inputs\bin\Debug\net6.0\Inputs.runtimeconfig.json
+C:\workspace\C#\Inputs\Inputs\bin\Debug\net6.0\Inputs.dll
+C:\workspace\C#\Inputs\Inputs\bin\Debug\net6.0\Inputs.pdb
+C:\workspace\C#\Inputs\Inputs\obj\Debug\net6.0\Inputs.csproj.AssemblyReference.cache
+C:\workspace\C#\Inputs\Inputs\obj\Debug\net6.0\Inputs.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\C#\Inputs\Inputs\obj\Debug\net6.0\Inputs.AssemblyInfoInputs.cache
+C:\workspace\C#\Inputs\Inputs\obj\Debug\net6.0\Inputs.AssemblyInfo.cs
+C:\workspace\C#\Inputs\Inputs\obj\Debug\net6.0\Inputs.csproj.CoreCompileInputs.cache
+C:\workspace\C#\Inputs\Inputs\obj\Debug\net6.0\Inputs.dll
+C:\workspace\C#\Inputs\Inputs\obj\Debug\net6.0\refint\Inputs.dll
+C:\workspace\C#\Inputs\Inputs\obj\Debug\net6.0\Inputs.pdb
+C:\workspace\C#\Inputs\Inputs\obj\Debug\net6.0\Inputs.genruntimeconfig.cache
+C:\workspace\C#\Inputs\Inputs\obj\Debug\net6.0\ref\Inputs.dll

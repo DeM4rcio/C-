@@ -1,0 +1,15 @@
+C:\workspace\C#\Cedulas\Cedulas\bin\Debug\net6.0\Cedulas.exe
+C:\workspace\C#\Cedulas\Cedulas\bin\Debug\net6.0\Cedulas.deps.json
+C:\workspace\C#\Cedulas\Cedulas\bin\Debug\net6.0\Cedulas.runtimeconfig.json
+C:\workspace\C#\Cedulas\Cedulas\bin\Debug\net6.0\Cedulas.dll
+C:\workspace\C#\Cedulas\Cedulas\bin\Debug\net6.0\Cedulas.pdb
+C:\workspace\C#\Cedulas\Cedulas\obj\Debug\net6.0\Cedulas.csproj.AssemblyReference.cache
+C:\workspace\C#\Cedulas\Cedulas\obj\Debug\net6.0\Cedulas.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\C#\Cedulas\Cedulas\obj\Debug\net6.0\Cedulas.AssemblyInfoInputs.cache
+C:\workspace\C#\Cedulas\Cedulas\obj\Debug\net6.0\Cedulas.AssemblyInfo.cs
+C:\workspace\C#\Cedulas\Cedulas\obj\Debug\net6.0\Cedulas.csproj.CoreCompileInputs.cache
+C:\workspace\C#\Cedulas\Cedulas\obj\Debug\net6.0\Cedulas.dll
+C:\workspace\C#\Cedulas\Cedulas\obj\Debug\net6.0\refint\Cedulas.dll
+C:\workspace\C#\Cedulas\Cedulas\obj\Debug\net6.0\Cedulas.pdb
+C:\workspace\C#\Cedulas\Cedulas\obj\Debug\net6.0\Cedulas.genruntimeconfig.cache
+C:\workspace\C#\Cedulas\Cedulas\obj\Debug\net6.0\ref\Cedulas.dll

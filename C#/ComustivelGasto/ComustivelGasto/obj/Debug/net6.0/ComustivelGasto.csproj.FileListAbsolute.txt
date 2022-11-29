@@ -1,0 +1,15 @@
+C:\workspace\C#\ComustivelGasto\ComustivelGasto\bin\Debug\net6.0\ComustivelGasto.exe
+C:\workspace\C#\ComustivelGasto\ComustivelGasto\bin\Debug\net6.0\ComustivelGasto.deps.json
+C:\workspace\C#\ComustivelGasto\ComustivelGasto\bin\Debug\net6.0\ComustivelGasto.runtimeconfig.json
+C:\workspace\C#\ComustivelGasto\ComustivelGasto\bin\Debug\net6.0\ComustivelGasto.dll
+C:\workspace\C#\ComustivelGasto\ComustivelGasto\bin\Debug\net6.0\ComustivelGasto.pdb
+C:\workspace\C#\ComustivelGasto\ComustivelGasto\obj\Debug\net6.0\ComustivelGasto.csproj.AssemblyReference.cache
+C:\workspace\C#\ComustivelGasto\ComustivelGasto\obj\Debug\net6.0\ComustivelGasto.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\C#\ComustivelGasto\ComustivelGasto\obj\Debug\net6.0\ComustivelGasto.AssemblyInfoInputs.cache
+C:\workspace\C#\ComustivelGasto\ComustivelGasto\obj\Debug\net6.0\ComustivelGasto.AssemblyInfo.cs
+C:\workspace\C#\ComustivelGasto\ComustivelGasto\obj\Debug\net6.0\ComustivelGasto.csproj.CoreCompileInputs.cache
+C:\workspace\C#\ComustivelGasto\ComustivelGasto\obj\Debug\net6.0\ComustivelGasto.dll
+C:\workspace\C#\ComustivelGasto\ComustivelGasto\obj\Debug\net6.0\refint\ComustivelGasto.dll
+C:\workspace\C#\ComustivelGasto\ComustivelGasto\obj\Debug\net6.0\ComustivelGasto.pdb
+C:\workspace\C#\ComustivelGasto\ComustivelGasto\obj\Debug\net6.0\ComustivelGasto.genruntimeconfig.cache
+C:\workspace\C#\ComustivelGasto\ComustivelGasto\obj\Debug\net6.0\ref\ComustivelGasto.dll
