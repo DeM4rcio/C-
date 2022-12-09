@@ -1,0 +1,15 @@
+C:\workspace\C#\SomaImparesCons\SomaImparesCons\bin\Debug\net6.0\SomaImparesCons.exe
+C:\workspace\C#\SomaImparesCons\SomaImparesCons\bin\Debug\net6.0\SomaImparesCons.deps.json
+C:\workspace\C#\SomaImparesCons\SomaImparesCons\bin\Debug\net6.0\SomaImparesCons.runtimeconfig.json
+C:\workspace\C#\SomaImparesCons\SomaImparesCons\bin\Debug\net6.0\SomaImparesCons.dll
+C:\workspace\C#\SomaImparesCons\SomaImparesCons\bin\Debug\net6.0\SomaImparesCons.pdb
+C:\workspace\C#\SomaImparesCons\SomaImparesCons\obj\Debug\net6.0\SomaImparesCons.csproj.AssemblyReference.cache
+C:\workspace\C#\SomaImparesCons\SomaImparesCons\obj\Debug\net6.0\SomaImparesCons.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\C#\SomaImparesCons\SomaImparesCons\obj\Debug\net6.0\SomaImparesCons.AssemblyInfoInputs.cache
+C:\workspace\C#\SomaImparesCons\SomaImparesCons\obj\Debug\net6.0\SomaImparesCons.AssemblyInfo.cs
+C:\workspace\C#\SomaImparesCons\SomaImparesCons\obj\Debug\net6.0\SomaImparesCons.csproj.CoreCompileInputs.cache
+C:\workspace\C#\SomaImparesCons\SomaImparesCons\obj\Debug\net6.0\SomaImparesCons.dll
+C:\workspace\C#\SomaImparesCons\SomaImparesCons\obj\Debug\net6.0\refint\SomaImparesCons.dll
+C:\workspace\C#\SomaImparesCons\SomaImparesCons\obj\Debug\net6.0\SomaImparesCons.pdb
+C:\workspace\C#\SomaImparesCons\SomaImparesCons\obj\Debug\net6.0\SomaImparesCons.genruntimeconfig.cache
+C:\workspace\C#\SomaImparesCons\SomaImparesCons\obj\Debug\net6.0\ref\SomaImparesCons.dll

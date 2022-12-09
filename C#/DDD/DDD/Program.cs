@@ -5,42 +5,25 @@ namespace BEE
     {
         static void Main(string[] args)
         {
-            int x = int.Parse(Console.ReadLine());
-            if (x >= 11 && x <= 71) 
-            {
-                switch (x)
-                {
-                    case 11:
-                        Console.WriteLine("Sao Paulo");
-                        break;
-                    case 19:
-                        Console.WriteLine("Campinas");
-                        break;
-                    case 61:
-                        Console.WriteLine("Brasilia");
-                        break;
-                    case 71:
-                        Console.WriteLine("Salvador");
-                        break;
-                    case 21:
-                        Console.WriteLine("Rio de Janeiro");
-                        break;
-                    case 32:
-                        Console.WriteLine("Juiz de Fora ");
-                        break;
-                    case 27:
-                        Console.WriteLine("Vitoria");
-                        break;
-                    case 31:
-                        Console.WriteLine("Belo Horizonte");
-                        break;
-                }
-                
-            }
+            int N = int.Parse(Console.ReadLine());
+            if (N == 61)
+                Console.WriteLine("Brasilia");
+            else if (N == 71)
+                Console.WriteLine("Salvador");
+            else if (N == 11)
+                Console.WriteLine("Sao Paulo");
+            else if (N == 21)
+                Console.WriteLine("Rio de Janeiro");
+            else if (N == 32)
+                Console.WriteLine("Juiz de Fora");
+            else if (N == 19)
+                Console.WriteLine("Campinas");
+            else if (N == 27)
+                Console.WriteLine("Vitoria");
+            else if (N == 31)
+                Console.WriteLine("Bela Horizonte");
             else
-            {
-                Console.WriteLine("DDD nao encontrado");
-            }
+                Console.WriteLine("DDD nao cadastrado");
         }
     }
 }

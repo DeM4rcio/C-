@@ -1,0 +1,15 @@
+C:\workspace\C#\ParOUImpar\ParOUImpar\bin\Debug\net6.0\ParOUImpar.exe
+C:\workspace\C#\ParOUImpar\ParOUImpar\bin\Debug\net6.0\ParOUImpar.deps.json
+C:\workspace\C#\ParOUImpar\ParOUImpar\bin\Debug\net6.0\ParOUImpar.runtimeconfig.json
+C:\workspace\C#\ParOUImpar\ParOUImpar\bin\Debug\net6.0\ParOUImpar.dll
+C:\workspace\C#\ParOUImpar\ParOUImpar\bin\Debug\net6.0\ParOUImpar.pdb
+C:\workspace\C#\ParOUImpar\ParOUImpar\obj\Debug\net6.0\ParOUImpar.csproj.AssemblyReference.cache
+C:\workspace\C#\ParOUImpar\ParOUImpar\obj\Debug\net6.0\ParOUImpar.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\C#\ParOUImpar\ParOUImpar\obj\Debug\net6.0\ParOUImpar.AssemblyInfoInputs.cache
+C:\workspace\C#\ParOUImpar\ParOUImpar\obj\Debug\net6.0\ParOUImpar.AssemblyInfo.cs
+C:\workspace\C#\ParOUImpar\ParOUImpar\obj\Debug\net6.0\ParOUImpar.csproj.CoreCompileInputs.cache
+C:\workspace\C#\ParOUImpar\ParOUImpar\obj\Debug\net6.0\ParOUImpar.dll
+C:\workspace\C#\ParOUImpar\ParOUImpar\obj\Debug\net6.0\refint\ParOUImpar.dll
+C:\workspace\C#\ParOUImpar\ParOUImpar\obj\Debug\net6.0\ParOUImpar.pdb
+C:\workspace\C#\ParOUImpar\ParOUImpar\obj\Debug\net6.0\ParOUImpar.genruntimeconfig.cache
+C:\workspace\C#\ParOUImpar\ParOUImpar\obj\Debug\net6.0\ref\ParOUImpar.dll

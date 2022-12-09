@@ -1,0 +1,15 @@
+C:\workspace\C#\CoordenadasPonto\CoordenadasPonto\bin\Debug\net6.0\CoordenadasPonto.exe
+C:\workspace\C#\CoordenadasPonto\CoordenadasPonto\bin\Debug\net6.0\CoordenadasPonto.deps.json
+C:\workspace\C#\CoordenadasPonto\CoordenadasPonto\bin\Debug\net6.0\CoordenadasPonto.runtimeconfig.json
+C:\workspace\C#\CoordenadasPonto\CoordenadasPonto\bin\Debug\net6.0\CoordenadasPonto.dll
+C:\workspace\C#\CoordenadasPonto\CoordenadasPonto\bin\Debug\net6.0\CoordenadasPonto.pdb
+C:\workspace\C#\CoordenadasPonto\CoordenadasPonto\obj\Debug\net6.0\CoordenadasPonto.csproj.AssemblyReference.cache
+C:\workspace\C#\CoordenadasPonto\CoordenadasPonto\obj\Debug\net6.0\CoordenadasPonto.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\C#\CoordenadasPonto\CoordenadasPonto\obj\Debug\net6.0\CoordenadasPonto.AssemblyInfoInputs.cache
+C:\workspace\C#\CoordenadasPonto\CoordenadasPonto\obj\Debug\net6.0\CoordenadasPonto.AssemblyInfo.cs
+C:\workspace\C#\CoordenadasPonto\CoordenadasPonto\obj\Debug\net6.0\CoordenadasPonto.csproj.CoreCompileInputs.cache
+C:\workspace\C#\CoordenadasPonto\CoordenadasPonto\obj\Debug\net6.0\CoordenadasPonto.dll
+C:\workspace\C#\CoordenadasPonto\CoordenadasPonto\obj\Debug\net6.0\refint\CoordenadasPonto.dll
+C:\workspace\C#\CoordenadasPonto\CoordenadasPonto\obj\Debug\net6.0\CoordenadasPonto.pdb
+C:\workspace\C#\CoordenadasPonto\CoordenadasPonto\obj\Debug\net6.0\CoordenadasPonto.genruntimeconfig.cache
+C:\workspace\C#\CoordenadasPonto\CoordenadasPonto\obj\Debug\net6.0\ref\CoordenadasPonto.dll

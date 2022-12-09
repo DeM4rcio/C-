@@ -15,12 +15,8 @@ namespace Bee
             double exame;
             double final;
 
-            n1 = 2.0;
-            n2 = 3.0;
-            n3 = 4.0;
-            n4 = 1.0;
 
-            media = Math.Round((n1 + n2 + n3 + n4) / 10,1);
+            media = Math.Round((n1 + n2 + n3 + n4) / 10.0,1);
 
             if (media >= 5.0 && media <= 6.9)
             {

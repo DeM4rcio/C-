@@ -1,0 +1,15 @@
+C:\workspace\C#\Multiplo\Multiplo\bin\Debug\net6.0\Multiplo.exe
+C:\workspace\C#\Multiplo\Multiplo\bin\Debug\net6.0\Multiplo.deps.json
+C:\workspace\C#\Multiplo\Multiplo\bin\Debug\net6.0\Multiplo.runtimeconfig.json
+C:\workspace\C#\Multiplo\Multiplo\bin\Debug\net6.0\Multiplo.dll
+C:\workspace\C#\Multiplo\Multiplo\bin\Debug\net6.0\Multiplo.pdb
+C:\workspace\C#\Multiplo\Multiplo\obj\Debug\net6.0\Multiplo.csproj.AssemblyReference.cache
+C:\workspace\C#\Multiplo\Multiplo\obj\Debug\net6.0\Multiplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\C#\Multiplo\Multiplo\obj\Debug\net6.0\Multiplo.AssemblyInfoInputs.cache
+C:\workspace\C#\Multiplo\Multiplo\obj\Debug\net6.0\Multiplo.AssemblyInfo.cs
+C:\workspace\C#\Multiplo\Multiplo\obj\Debug\net6.0\Multiplo.csproj.CoreCompileInputs.cache
+C:\workspace\C#\Multiplo\Multiplo\obj\Debug\net6.0\Multiplo.dll
+C:\workspace\C#\Multiplo\Multiplo\obj\Debug\net6.0\refint\Multiplo.dll
+C:\workspace\C#\Multiplo\Multiplo\obj\Debug\net6.0\Multiplo.pdb
+C:\workspace\C#\Multiplo\Multiplo\obj\Debug\net6.0\Multiplo.genruntimeconfig.cache
+C:\workspace\C#\Multiplo\Multiplo\obj\Debug\net6.0\ref\Multiplo.dll

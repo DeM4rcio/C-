@@ -1,0 +1,15 @@
+C:\workspace\C#\SequenciaEsoma\SequenciaEsoma\bin\Debug\net6.0\SequenciaEsoma.exe
+C:\workspace\C#\SequenciaEsoma\SequenciaEsoma\bin\Debug\net6.0\SequenciaEsoma.deps.json
+C:\workspace\C#\SequenciaEsoma\SequenciaEsoma\bin\Debug\net6.0\SequenciaEsoma.runtimeconfig.json
+C:\workspace\C#\SequenciaEsoma\SequenciaEsoma\bin\Debug\net6.0\SequenciaEsoma.dll
+C:\workspace\C#\SequenciaEsoma\SequenciaEsoma\bin\Debug\net6.0\SequenciaEsoma.pdb
+C:\workspace\C#\SequenciaEsoma\SequenciaEsoma\obj\Debug\net6.0\SequenciaEsoma.csproj.AssemblyReference.cache
+C:\workspace\C#\SequenciaEsoma\SequenciaEsoma\obj\Debug\net6.0\SequenciaEsoma.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\C#\SequenciaEsoma\SequenciaEsoma\obj\Debug\net6.0\SequenciaEsoma.AssemblyInfoInputs.cache
+C:\workspace\C#\SequenciaEsoma\SequenciaEsoma\obj\Debug\net6.0\SequenciaEsoma.AssemblyInfo.cs
+C:\workspace\C#\SequenciaEsoma\SequenciaEsoma\obj\Debug\net6.0\SequenciaEsoma.csproj.CoreCompileInputs.cache
+C:\workspace\C#\SequenciaEsoma\SequenciaEsoma\obj\Debug\net6.0\SequenciaEsoma.dll
+C:\workspace\C#\SequenciaEsoma\SequenciaEsoma\obj\Debug\net6.0\refint\SequenciaEsoma.dll
+C:\workspace\C#\SequenciaEsoma\SequenciaEsoma\obj\Debug\net6.0\SequenciaEsoma.pdb
+C:\workspace\C#\SequenciaEsoma\SequenciaEsoma\obj\Debug\net6.0\SequenciaEsoma.genruntimeconfig.cache
+C:\workspace\C#\SequenciaEsoma\SequenciaEsoma\obj\Debug\net6.0\ref\SequenciaEsoma.dll

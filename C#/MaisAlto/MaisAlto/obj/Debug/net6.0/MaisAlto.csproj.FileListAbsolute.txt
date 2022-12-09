@@ -1,0 +1,15 @@
+C:\workspace\C#\MaisAlto\MaisAlto\bin\Debug\net6.0\MaisAlto.exe
+C:\workspace\C#\MaisAlto\MaisAlto\bin\Debug\net6.0\MaisAlto.deps.json
+C:\workspace\C#\MaisAlto\MaisAlto\bin\Debug\net6.0\MaisAlto.runtimeconfig.json
+C:\workspace\C#\MaisAlto\MaisAlto\bin\Debug\net6.0\MaisAlto.dll
+C:\workspace\C#\MaisAlto\MaisAlto\bin\Debug\net6.0\MaisAlto.pdb
+C:\workspace\C#\MaisAlto\MaisAlto\obj\Debug\net6.0\MaisAlto.csproj.AssemblyReference.cache
+C:\workspace\C#\MaisAlto\MaisAlto\obj\Debug\net6.0\MaisAlto.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\C#\MaisAlto\MaisAlto\obj\Debug\net6.0\MaisAlto.AssemblyInfoInputs.cache
+C:\workspace\C#\MaisAlto\MaisAlto\obj\Debug\net6.0\MaisAlto.AssemblyInfo.cs
+C:\workspace\C#\MaisAlto\MaisAlto\obj\Debug\net6.0\MaisAlto.csproj.CoreCompileInputs.cache
+C:\workspace\C#\MaisAlto\MaisAlto\obj\Debug\net6.0\MaisAlto.dll
+C:\workspace\C#\MaisAlto\MaisAlto\obj\Debug\net6.0\refint\MaisAlto.dll
+C:\workspace\C#\MaisAlto\MaisAlto\obj\Debug\net6.0\MaisAlto.pdb
+C:\workspace\C#\MaisAlto\MaisAlto\obj\Debug\net6.0\MaisAlto.genruntimeconfig.cache
+C:\workspace\C#\MaisAlto\MaisAlto\obj\Debug\net6.0\ref\MaisAlto.dll

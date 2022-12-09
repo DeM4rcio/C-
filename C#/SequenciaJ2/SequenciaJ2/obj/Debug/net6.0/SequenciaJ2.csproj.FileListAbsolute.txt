@@ -1,0 +1,15 @@
+C:\workspace\C#\SequenciaJ2\SequenciaJ2\bin\Debug\net6.0\SequenciaJ2.exe
+C:\workspace\C#\SequenciaJ2\SequenciaJ2\bin\Debug\net6.0\SequenciaJ2.deps.json
+C:\workspace\C#\SequenciaJ2\SequenciaJ2\bin\Debug\net6.0\SequenciaJ2.runtimeconfig.json
+C:\workspace\C#\SequenciaJ2\SequenciaJ2\bin\Debug\net6.0\SequenciaJ2.dll
+C:\workspace\C#\SequenciaJ2\SequenciaJ2\bin\Debug\net6.0\SequenciaJ2.pdb
+C:\workspace\C#\SequenciaJ2\SequenciaJ2\obj\Debug\net6.0\SequenciaJ2.csproj.AssemblyReference.cache
+C:\workspace\C#\SequenciaJ2\SequenciaJ2\obj\Debug\net6.0\SequenciaJ2.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\C#\SequenciaJ2\SequenciaJ2\obj\Debug\net6.0\SequenciaJ2.AssemblyInfoInputs.cache
+C:\workspace\C#\SequenciaJ2\SequenciaJ2\obj\Debug\net6.0\SequenciaJ2.AssemblyInfo.cs
+C:\workspace\C#\SequenciaJ2\SequenciaJ2\obj\Debug\net6.0\SequenciaJ2.csproj.CoreCompileInputs.cache
+C:\workspace\C#\SequenciaJ2\SequenciaJ2\obj\Debug\net6.0\SequenciaJ2.dll
+C:\workspace\C#\SequenciaJ2\SequenciaJ2\obj\Debug\net6.0\refint\SequenciaJ2.dll
+C:\workspace\C#\SequenciaJ2\SequenciaJ2\obj\Debug\net6.0\SequenciaJ2.pdb
+C:\workspace\C#\SequenciaJ2\SequenciaJ2\obj\Debug\net6.0\SequenciaJ2.genruntimeconfig.cache
+C:\workspace\C#\SequenciaJ2\SequenciaJ2\obj\Debug\net6.0\ref\SequenciaJ2.dll

@@ -1,0 +1,15 @@
+C:\workspace\C#\Intervalo2\Intervalo2\bin\Debug\net6.0\Intervalo2.exe
+C:\workspace\C#\Intervalo2\Intervalo2\bin\Debug\net6.0\Intervalo2.deps.json
+C:\workspace\C#\Intervalo2\Intervalo2\bin\Debug\net6.0\Intervalo2.runtimeconfig.json
+C:\workspace\C#\Intervalo2\Intervalo2\bin\Debug\net6.0\Intervalo2.dll
+C:\workspace\C#\Intervalo2\Intervalo2\bin\Debug\net6.0\Intervalo2.pdb
+C:\workspace\C#\Intervalo2\Intervalo2\obj\Debug\net6.0\Intervalo2.csproj.AssemblyReference.cache
+C:\workspace\C#\Intervalo2\Intervalo2\obj\Debug\net6.0\Intervalo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\C#\Intervalo2\Intervalo2\obj\Debug\net6.0\Intervalo2.AssemblyInfoInputs.cache
+C:\workspace\C#\Intervalo2\Intervalo2\obj\Debug\net6.0\Intervalo2.AssemblyInfo.cs
+C:\workspace\C#\Intervalo2\Intervalo2\obj\Debug\net6.0\Intervalo2.csproj.CoreCompileInputs.cache
+C:\workspace\C#\Intervalo2\Intervalo2\obj\Debug\net6.0\Intervalo2.dll
+C:\workspace\C#\Intervalo2\Intervalo2\obj\Debug\net6.0\refint\Intervalo2.dll
+C:\workspace\C#\Intervalo2\Intervalo2\obj\Debug\net6.0\Intervalo2.pdb
+C:\workspace\C#\Intervalo2\Intervalo2\obj\Debug\net6.0\Intervalo2.genruntimeconfig.cache
+C:\workspace\C#\Intervalo2\Intervalo2\obj\Debug\net6.0\ref\Intervalo2.dll

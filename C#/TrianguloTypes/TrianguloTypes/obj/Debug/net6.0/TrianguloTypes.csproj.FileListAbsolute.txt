@@ -1,0 +1,15 @@
+C:\workspace\C#\TrianguloTypes\TrianguloTypes\obj\Debug\net6.0\TrianguloTypes.csproj.AssemblyReference.cache
+C:\workspace\C#\TrianguloTypes\TrianguloTypes\obj\Debug\net6.0\TrianguloTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\C#\TrianguloTypes\TrianguloTypes\obj\Debug\net6.0\TrianguloTypes.AssemblyInfoInputs.cache
+C:\workspace\C#\TrianguloTypes\TrianguloTypes\obj\Debug\net6.0\TrianguloTypes.AssemblyInfo.cs
+C:\workspace\C#\TrianguloTypes\TrianguloTypes\obj\Debug\net6.0\TrianguloTypes.csproj.CoreCompileInputs.cache
+C:\workspace\C#\TrianguloTypes\TrianguloTypes\bin\Debug\net6.0\TrianguloTypes.exe
+C:\workspace\C#\TrianguloTypes\TrianguloTypes\bin\Debug\net6.0\TrianguloTypes.deps.json
+C:\workspace\C#\TrianguloTypes\TrianguloTypes\bin\Debug\net6.0\TrianguloTypes.runtimeconfig.json
+C:\workspace\C#\TrianguloTypes\TrianguloTypes\bin\Debug\net6.0\TrianguloTypes.dll
+C:\workspace\C#\TrianguloTypes\TrianguloTypes\bin\Debug\net6.0\TrianguloTypes.pdb
+C:\workspace\C#\TrianguloTypes\TrianguloTypes\obj\Debug\net6.0\TrianguloTypes.dll
+C:\workspace\C#\TrianguloTypes\TrianguloTypes\obj\Debug\net6.0\refint\TrianguloTypes.dll
+C:\workspace\C#\TrianguloTypes\TrianguloTypes\obj\Debug\net6.0\TrianguloTypes.pdb
+C:\workspace\C#\TrianguloTypes\TrianguloTypes\obj\Debug\net6.0\TrianguloTypes.genruntimeconfig.cache
+C:\workspace\C#\TrianguloTypes\TrianguloTypes\obj\Debug\net6.0\ref\TrianguloTypes.dll

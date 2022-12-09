@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SomaNumImpares", "SomaNumImpares\SomaNumImpares.csproj", "{47000E29-5420-4367-83A3-02601456B104}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47000E29-5420-4367-83A3-02601456B104}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47000E29-5420-4367-83A3-02601456B104}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47000E29-5420-4367-83A3-02601456B104}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47000E29-5420-4367-83A3-02601456B104}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF8C1C6F-DA9E-47EF-918E-4728E36BC14A}
+	EndGlobalSection
+EndGlobal

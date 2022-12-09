@@ -1,0 +1,15 @@
+C:\workspace\C#\DuraçãoJogo\DuraçãoJogo\bin\Debug\net6.0\DuraçãoJogo.exe
+C:\workspace\C#\DuraçãoJogo\DuraçãoJogo\bin\Debug\net6.0\DuraçãoJogo.deps.json
+C:\workspace\C#\DuraçãoJogo\DuraçãoJogo\bin\Debug\net6.0\DuraçãoJogo.runtimeconfig.json
+C:\workspace\C#\DuraçãoJogo\DuraçãoJogo\bin\Debug\net6.0\DuraçãoJogo.dll
+C:\workspace\C#\DuraçãoJogo\DuraçãoJogo\bin\Debug\net6.0\DuraçãoJogo.pdb
+C:\workspace\C#\DuraçãoJogo\DuraçãoJogo\obj\Debug\net6.0\DuraçãoJogo.csproj.AssemblyReference.cache
+C:\workspace\C#\DuraçãoJogo\DuraçãoJogo\obj\Debug\net6.0\DuraçãoJogo.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\C#\DuraçãoJogo\DuraçãoJogo\obj\Debug\net6.0\DuraçãoJogo.AssemblyInfoInputs.cache
+C:\workspace\C#\DuraçãoJogo\DuraçãoJogo\obj\Debug\net6.0\DuraçãoJogo.AssemblyInfo.cs
+C:\workspace\C#\DuraçãoJogo\DuraçãoJogo\obj\Debug\net6.0\DuraçãoJogo.csproj.CoreCompileInputs.cache
+C:\workspace\C#\DuraçãoJogo\DuraçãoJogo\obj\Debug\net6.0\DuraçãoJogo.dll
+C:\workspace\C#\DuraçãoJogo\DuraçãoJogo\obj\Debug\net6.0\refint\DuraçãoJogo.dll
+C:\workspace\C#\DuraçãoJogo\DuraçãoJogo\obj\Debug\net6.0\DuraçãoJogo.pdb
+C:\workspace\C#\DuraçãoJogo\DuraçãoJogo\obj\Debug\net6.0\DuraçãoJogo.genruntimeconfig.cache
+C:\workspace\C#\DuraçãoJogo\DuraçãoJogo\obj\Debug\net6.0\ref\DuraçãoJogo.dll

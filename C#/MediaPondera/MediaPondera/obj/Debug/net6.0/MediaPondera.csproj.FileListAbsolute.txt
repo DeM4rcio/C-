@@ -1,0 +1,15 @@
+C:\workspace\C#\MediaPondera\MediaPondera\bin\Debug\net6.0\MediaPondera.exe
+C:\workspace\C#\MediaPondera\MediaPondera\bin\Debug\net6.0\MediaPondera.deps.json
+C:\workspace\C#\MediaPondera\MediaPondera\bin\Debug\net6.0\MediaPondera.runtimeconfig.json
+C:\workspace\C#\MediaPondera\MediaPondera\bin\Debug\net6.0\MediaPondera.dll
+C:\workspace\C#\MediaPondera\MediaPondera\bin\Debug\net6.0\MediaPondera.pdb
+C:\workspace\C#\MediaPondera\MediaPondera\obj\Debug\net6.0\MediaPondera.csproj.AssemblyReference.cache
+C:\workspace\C#\MediaPondera\MediaPondera\obj\Debug\net6.0\MediaPondera.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\C#\MediaPondera\MediaPondera\obj\Debug\net6.0\MediaPondera.AssemblyInfoInputs.cache
+C:\workspace\C#\MediaPondera\MediaPondera\obj\Debug\net6.0\MediaPondera.AssemblyInfo.cs
+C:\workspace\C#\MediaPondera\MediaPondera\obj\Debug\net6.0\MediaPondera.csproj.CoreCompileInputs.cache
+C:\workspace\C#\MediaPondera\MediaPondera\obj\Debug\net6.0\MediaPondera.dll
+C:\workspace\C#\MediaPondera\MediaPondera\obj\Debug\net6.0\refint\MediaPondera.dll
+C:\workspace\C#\MediaPondera\MediaPondera\obj\Debug\net6.0\MediaPondera.pdb
+C:\workspace\C#\MediaPondera\MediaPondera\obj\Debug\net6.0\MediaPondera.genruntimeconfig.cache
+C:\workspace\C#\MediaPondera\MediaPondera\obj\Debug\net6.0\ref\MediaPondera.dll

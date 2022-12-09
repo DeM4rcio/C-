@@ -1,0 +1,15 @@
+C:\workspace\C#\numerosPositivos\numerosPositivos\bin\Debug\net6.0\numerosPositivos.exe
+C:\workspace\C#\numerosPositivos\numerosPositivos\bin\Debug\net6.0\numerosPositivos.deps.json
+C:\workspace\C#\numerosPositivos\numerosPositivos\bin\Debug\net6.0\numerosPositivos.runtimeconfig.json
+C:\workspace\C#\numerosPositivos\numerosPositivos\bin\Debug\net6.0\numerosPositivos.dll
+C:\workspace\C#\numerosPositivos\numerosPositivos\bin\Debug\net6.0\numerosPositivos.pdb
+C:\workspace\C#\numerosPositivos\numerosPositivos\obj\Debug\net6.0\numerosPositivos.csproj.AssemblyReference.cache
+C:\workspace\C#\numerosPositivos\numerosPositivos\obj\Debug\net6.0\numerosPositivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\C#\numerosPositivos\numerosPositivos\obj\Debug\net6.0\numerosPositivos.AssemblyInfoInputs.cache
+C:\workspace\C#\numerosPositivos\numerosPositivos\obj\Debug\net6.0\numerosPositivos.AssemblyInfo.cs
+C:\workspace\C#\numerosPositivos\numerosPositivos\obj\Debug\net6.0\numerosPositivos.csproj.CoreCompileInputs.cache
+C:\workspace\C#\numerosPositivos\numerosPositivos\obj\Debug\net6.0\numerosPositivos.dll
+C:\workspace\C#\numerosPositivos\numerosPositivos\obj\Debug\net6.0\refint\numerosPositivos.dll
+C:\workspace\C#\numerosPositivos\numerosPositivos\obj\Debug\net6.0\numerosPositivos.pdb
+C:\workspace\C#\numerosPositivos\numerosPositivos\obj\Debug\net6.0\numerosPositivos.genruntimeconfig.cache
+C:\workspace\C#\numerosPositivos\numerosPositivos\obj\Debug\net6.0\ref\numerosPositivos.dll
