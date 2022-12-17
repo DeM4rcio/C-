@@ -1,0 +1,15 @@
+C:\workspace\C#\Multiplos13\Multiplos13\bin\Debug\net6.0\Multiplos13.exe
+C:\workspace\C#\Multiplos13\Multiplos13\bin\Debug\net6.0\Multiplos13.deps.json
+C:\workspace\C#\Multiplos13\Multiplos13\bin\Debug\net6.0\Multiplos13.runtimeconfig.json
+C:\workspace\C#\Multiplos13\Multiplos13\bin\Debug\net6.0\Multiplos13.dll
+C:\workspace\C#\Multiplos13\Multiplos13\bin\Debug\net6.0\Multiplos13.pdb
+C:\workspace\C#\Multiplos13\Multiplos13\obj\Debug\net6.0\Multiplos13.csproj.AssemblyReference.cache
+C:\workspace\C#\Multiplos13\Multiplos13\obj\Debug\net6.0\Multiplos13.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\C#\Multiplos13\Multiplos13\obj\Debug\net6.0\Multiplos13.AssemblyInfoInputs.cache
+C:\workspace\C#\Multiplos13\Multiplos13\obj\Debug\net6.0\Multiplos13.AssemblyInfo.cs
+C:\workspace\C#\Multiplos13\Multiplos13\obj\Debug\net6.0\Multiplos13.csproj.CoreCompileInputs.cache
+C:\workspace\C#\Multiplos13\Multiplos13\obj\Debug\net6.0\Multiplos13.dll
+C:\workspace\C#\Multiplos13\Multiplos13\obj\Debug\net6.0\refint\Multiplos13.dll
+C:\workspace\C#\Multiplos13\Multiplos13\obj\Debug\net6.0\Multiplos13.pdb
+C:\workspace\C#\Multiplos13\Multiplos13\obj\Debug\net6.0\Multiplos13.genruntimeconfig.cache
+C:\workspace\C#\Multiplos13\Multiplos13\obj\Debug\net6.0\ref\Multiplos13.dll

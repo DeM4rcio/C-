@@ -1,0 +1,15 @@
+C:\workspace\C#\Validação\Validação\bin\Debug\net6.0\Validação.exe
+C:\workspace\C#\Validação\Validação\bin\Debug\net6.0\Validação.deps.json
+C:\workspace\C#\Validação\Validação\bin\Debug\net6.0\Validação.runtimeconfig.json
+C:\workspace\C#\Validação\Validação\bin\Debug\net6.0\Validação.dll
+C:\workspace\C#\Validação\Validação\bin\Debug\net6.0\Validação.pdb
+C:\workspace\C#\Validação\Validação\obj\Debug\net6.0\Validação.csproj.AssemblyReference.cache
+C:\workspace\C#\Validação\Validação\obj\Debug\net6.0\Validação.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\C#\Validação\Validação\obj\Debug\net6.0\Validação.AssemblyInfoInputs.cache
+C:\workspace\C#\Validação\Validação\obj\Debug\net6.0\Validação.AssemblyInfo.cs
+C:\workspace\C#\Validação\Validação\obj\Debug\net6.0\Validação.csproj.CoreCompileInputs.cache
+C:\workspace\C#\Validação\Validação\obj\Debug\net6.0\Validação.dll
+C:\workspace\C#\Validação\Validação\obj\Debug\net6.0\refint\Validação.dll
+C:\workspace\C#\Validação\Validação\obj\Debug\net6.0\Validação.pdb
+C:\workspace\C#\Validação\Validação\obj\Debug\net6.0\Validação.genruntimeconfig.cache
+C:\workspace\C#\Validação\Validação\obj\Debug\net6.0\ref\Validação.dll

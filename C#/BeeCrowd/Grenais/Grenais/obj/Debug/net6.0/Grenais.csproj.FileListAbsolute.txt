@@ -1,0 +1,5 @@
+C:\workspace\C#\Grenais\Grenais\obj\Debug\net6.0\Grenais.csproj.AssemblyReference.cache
+C:\workspace\C#\Grenais\Grenais\obj\Debug\net6.0\Grenais.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\C#\Grenais\Grenais\obj\Debug\net6.0\Grenais.AssemblyInfoInputs.cache
+C:\workspace\C#\Grenais\Grenais\obj\Debug\net6.0\Grenais.AssemblyInfo.cs
+C:\workspace\C#\Grenais\Grenais\obj\Debug\net6.0\Grenais.csproj.CoreCompileInputs.cache
