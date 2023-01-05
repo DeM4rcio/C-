@@ -1,0 +1,15 @@
+C:\workspace\C#\Teoria\Construct\Construct\bin\Debug\net6.0\Construct.exe
+C:\workspace\C#\Teoria\Construct\Construct\bin\Debug\net6.0\Construct.deps.json
+C:\workspace\C#\Teoria\Construct\Construct\bin\Debug\net6.0\Construct.runtimeconfig.json
+C:\workspace\C#\Teoria\Construct\Construct\bin\Debug\net6.0\Construct.dll
+C:\workspace\C#\Teoria\Construct\Construct\bin\Debug\net6.0\Construct.pdb
+C:\workspace\C#\Teoria\Construct\Construct\obj\Debug\net6.0\Construct.csproj.AssemblyReference.cache
+C:\workspace\C#\Teoria\Construct\Construct\obj\Debug\net6.0\Construct.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\C#\Teoria\Construct\Construct\obj\Debug\net6.0\Construct.AssemblyInfoInputs.cache
+C:\workspace\C#\Teoria\Construct\Construct\obj\Debug\net6.0\Construct.AssemblyInfo.cs
+C:\workspace\C#\Teoria\Construct\Construct\obj\Debug\net6.0\Construct.csproj.CoreCompileInputs.cache
+C:\workspace\C#\Teoria\Construct\Construct\obj\Debug\net6.0\Construct.dll
+C:\workspace\C#\Teoria\Construct\Construct\obj\Debug\net6.0\refint\Construct.dll
+C:\workspace\C#\Teoria\Construct\Construct\obj\Debug\net6.0\Construct.pdb
+C:\workspace\C#\Teoria\Construct\Construct\obj\Debug\net6.0\Construct.genruntimeconfig.cache
+C:\workspace\C#\Teoria\Construct\Construct\obj\Debug\net6.0\ref\Construct.dll
